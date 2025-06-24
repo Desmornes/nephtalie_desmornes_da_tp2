@@ -1,0 +1,4 @@
+php
+ext-pdo
+ext-pdo_mysql
+symfony/framework-bundle
