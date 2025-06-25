@@ -1,0 +1,17 @@
+# Backend (PHP/Symfony)
+php >= 8.2
+ext-pdo
+ext-pdo_mysql
+symfony/framework-bundle
+ext-zip
+ext-xml
+composer >= 2.0
+
+# Frontend (Node.js/Vue.js)
+node >= 18
+npm >= 8
+@vue/cli-service
+
+# Docker & Docker Compose
+docker >= 20.10
+docker-compose >= 1.29
