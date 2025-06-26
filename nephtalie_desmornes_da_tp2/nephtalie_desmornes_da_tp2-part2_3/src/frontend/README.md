@@ -79,7 +79,7 @@ dansekonnect/
 
 1. Clonez le dépôt
    ```bash
-   git clone https://github.com/votre-utilisateur/dansekonnect.git
+   git clone https://github.com/Desmornes/dansekonnect.git
    cd dansekonnect
    ```
 
